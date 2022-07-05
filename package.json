@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/vcreatorg/KenixoLast"
+        "url": "git+https://github.com/vcreatorg/KenixoVerify.git"
     },
     "engines": {
         "node": "^17.x"
