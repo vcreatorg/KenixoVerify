@@ -1,0 +1,10 @@
+{
+    "token": "OTI5NDQ5OTAwMzk0MDMzMTky.GMPUPq.a8EPvNxB6zXXiIWWSzR4owZBdXyInJyO3RDXfE",
+    "mongooseConnectionString": "mongodb+srv://kenixobot:katasandi08@cluster0.dwqyt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "version": "3.0.2",
+    "owner": "887525755267973121",
+    "support": "https://discord.gg/7mw5QG3FJN",
+    "invite": "https://www.kenixobot.ml/invite",
+    "website": "https://www.kenixobot.ml",
+    "footer": "Kenixo © 2022 • 3.0.2"
+}
